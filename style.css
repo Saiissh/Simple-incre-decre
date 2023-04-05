@@ -1,0 +1,20 @@
+th,td,tr{
+    text-align: center !important;
+    /* text-align: center;  */
+
+}
+
+form{
+    /* gap: 100px !important; */
+}
+
+*{
+    margin: 5px;
+}
+.sbmt{
+    margin:10px
+}
+
+button{
+    margin: 0 5px;
+}
